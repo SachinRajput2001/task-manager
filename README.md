@@ -1,5 +1,7 @@
 # Task Manager — Frontend Project
 
+https://sachinrajput2001.github.io/task-manager
+
 A clean, modern, resume‑ready frontend project built using **HTML, CSS, and JavaScript**.
 
 ## Features
